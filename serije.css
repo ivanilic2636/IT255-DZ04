@@ -1,0 +1,92 @@
+#telo {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+#pozadina {
+  background-image: url("prison-break.jpg");
+  background-size: cover;
+  height: 60%;
+  width: 100%;
+}
+#zaglavlje {
+  background-color: #333333;
+  font-size: 25px;
+  height: 35px;
+}
+#zaglavlje ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  text-align: center;
+  height: 35px;
+}
+#zaglavlje ul:hover {
+  background-color: #000000;
+}
+#zaglavlje li {
+  display: inline;
+  padding: 15px;
+  vertical-align: middle;
+}
+#zaglavlje a {
+  text-decoration: none;
+  color: #ffffff;
+  padding: 8px 8px 8px 8px;
+}
+#zaglavlje a:hover {
+  color: #000000;
+  background-color: #ffffff;
+}
+#slika {
+  margin-top: -10%;
+  margin-left: 10%;
+  width: 204px;
+}
+#slika ul {
+  padding-left: 2%;
+}
+#slika img {
+  border: 3px solid #FFFFFF;
+}
+#slika li {
+  display: block;
+  border-bottom: solid 1px #cacaca;
+}
+#slika a {
+  text-decoration: none;
+  color: #cacaca;
+}
+#slika a:hover {
+  color: #000000;
+}
+#zavrsetak {
+  margin-left: 25%;
+  margin-top: -8%;
+  margin-right: 25%;
+}
+#login {
+  width: 300px;
+  margin-left: 80%;
+  margin-top: -5%;
+}
+#login a {
+  text-decoration: none;
+  color: #000000;
+}
+#slajdovi {
+  margin-top: 2%;
+  margin-left: 30%;
+  width: 50%;
+}
+#dugmici {
+  margin-left: 40%;
+  margin-top: 3%;
+}
+
+
+
+
+
+
